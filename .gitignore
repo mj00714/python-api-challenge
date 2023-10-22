@@ -1,1 +1,2 @@
-Gitignnore file to prevent public API key visibility
+# Adding config.py file.
+api_keys.py
